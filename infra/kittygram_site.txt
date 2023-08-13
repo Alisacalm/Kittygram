@@ -1,0 +1,5 @@
+IP: 51.250.16.243;
+name_taski: https://taskitask.myftp.org/;
+name_kittygram: https://kittygram.line.p;
+login: admin;
+password: Prowl_not_prawl;
